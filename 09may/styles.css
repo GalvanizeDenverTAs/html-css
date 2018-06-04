@@ -1,0 +1,26 @@
+body{
+    background-color: powderblue;
+}
+
+h1{
+    font-size: 5rem;
+    font-weight: bolder;
+}
+
+.hero, .heroPenguin{
+    width: 100vw;
+}
+
+.penList{
+    width: 250px;
+    height:250px;
+}
+
+ul{
+    display:flex;
+}
+
+a{
+    text-decoration: none;
+    font-size: 3rem;
+}

@@ -1,0 +1,44 @@
+body{
+  width: 100vw;
+  height:100vh;
+  background-color: powderBlue;
+}
+h1{
+  font-size: 50px;
+  color: salmon;
+}
+
+h2{
+
+}
+
+img{
+  width:150px;
+  height: 200px;
+  border-style: solid;
+}
+
+ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: salmon;
+}
+
+footer{
+  height:10vh;
+  width:100vw;
+  background-color: fireBrick;
+}
+
+.otherWine{
+  font-size: 25px;
+  color: #ffdb00; 
+}

@@ -1,0 +1,73 @@
+* {
+  margin: 0 auto;
+}
+
+body {
+  background-color: #8B2942;
+  color: white;
+}
+
+header {
+  background-color: black;
+  height: 20vh;
+  padding: 2rem 2rem;
+  text-align: center;
+  width: 100%;
+}
+
+header h1{
+  color: #005488;
+  font-size: 150px;
+  width: 100%;
+}
+
+h2 {
+  margin-top: 2rem;
+}
+
+.avsHero{
+  margin: auto;
+  /* margin-top: 6rem; */
+  width: 80vw;
+  min-height: 200px;
+  padding: 0 10vw;
+}
+
+.james{
+  width:10rem;
+  height:200px;
+  border: 4px blue solid;
+}
+
+.jamesBox{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.losers {
+  text-align: center;
+}
+
+ul{
+  padding: 1rem 3rem;
+  list-style-type: none;
+}
+
+.sidney-gets-destroyed {
+  margin-top: 2rem;
+  width: 50%;
+  height:auto;
+}
+
+.boop {
+  font-size: 2rem;
+}
+
+.orange {
+  color: orange;
+}
+
+.purple {
+  color: purple;
+}

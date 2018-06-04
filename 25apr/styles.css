@@ -1,0 +1,18 @@
+body{
+    background-color: darkred;
+}
+
+h1{
+    color: goldenrod;
+    font-size: 20px;
+}
+
+img{
+    height:250px;
+    width:400px;
+}
+
+.second{
+    font-size: 150px;
+    color: powderblue;
+}
